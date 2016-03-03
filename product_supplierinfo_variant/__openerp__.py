@@ -22,6 +22,8 @@
     'category': 'Product Management',
     'depends': [
         'product',
+        'stock',
+        'purchase',
     ],
     'data': [
         'views/product_template_view.xml',
